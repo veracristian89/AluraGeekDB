@@ -1,5 +1,4 @@
-{
-    "producto":[
+[
         {   
             "categoria": "Star Wars",
             "titulo": "Taza Stormtrooper",
@@ -145,5 +144,4 @@
             "id": 18,
             "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus, eos. Impedit quos quia vero incidunt maxime quasi explicabo quis dolore quibusdam repellat voluptatem nemo, labore libero cum laudantium, reprehenderit sed."
         }
-    ]
-}
+]
